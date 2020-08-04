@@ -1,0 +1,8 @@
+name: dgscrape
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scrapy
+  - flake8
